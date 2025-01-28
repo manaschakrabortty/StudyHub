@@ -1,4 +1,4 @@
-## Student Productivity Website
+## Student Productivity Website [StudyHub]
 
 A comprehensive web application designed to help students manage their productivity, learning resources, and tasks effectively.
 
